@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>about</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+
+  <ion-card *ngFor="let data of profile">
+    <ion-card-header>
+      <ion-card-title>Profile</ion-card-title>
+      <ion-card-subtitle>{{data.name}}</ion-card-subtitle>
+      <ion-card-content>
+      <p> Age:  {{data.age}}</p>
+      <p> Gender: {{data.gender}}</p>
+      <p> Phone Number: {{data.phone}}</p> 
+      </ion-card-content>
+    </ion-card-header>
+  </ion-card>
+</ion-content>

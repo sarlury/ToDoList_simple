@@ -1,0 +1,31 @@
+[{
+    "name": "jemy",
+    "gender": "Laki - laki",
+    "age": 32,
+    "address": "Bogor",
+    "phone": 1234567890,
+    "activation": 1,
+    "username": "123123",
+    "password": "123123"
+},
+{
+    "name": "jerry",
+    "gender": "Laki - laki",
+    "age": 1,
+    "address": "Bogor",
+    "phone": 1234567890,
+    "activation": 2,
+    "username": "123123",
+    "password": "123123"
+},
+{
+    "name": "lydia",
+    "gender": "perempuan",
+    "age": 1,
+    "address": "Bogor",
+    "phone": 1234567890,
+    "activation": 2,
+    "username": "123123",
+    "password": "123123"
+}
+]

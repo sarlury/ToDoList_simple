@@ -1,5 +1,7 @@
 {
   "name": "simpleTodo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
